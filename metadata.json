@@ -1,0 +1,10 @@
+{
+  "name": "Remix: AbarroControl",
+  "description": "Aplicación moderna para administrar inventario, ventas, compras, gastos, proveedores y reportes de tiendas de abarrotes, con inteligencia de negocios impulsada por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
